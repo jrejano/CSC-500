@@ -1,0 +1,52 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
+#find the sum of two numbers
+
+num1 = int(input("First Number: "))
+num2 = int(input("Second Number: "))
+sum = num1 + num2
+print ("Sum: ", sum)
+
+
+# In[2]:
+
+
+#find the difference between two numbers
+
+num1 = int(input("First Number: "))
+num2 = int(input("Second Number: "))
+diff = num1 - num2
+print ("Difference: ", diff)
+
+
+# In[3]:
+
+
+#find the product of two numbers
+
+num1 = int(input("First Number: "))
+num2 = int(input("Second Number: "))
+product = num1 * num2
+print ("Product: ", product)
+
+
+# In[4]:
+
+
+#find the difference between two numbers
+
+num1 = int(input("First Number: "))
+num2 = int(input("Second Number: "))
+divide = num1 / num2
+print ("Divide: ", divide)
+
+
+# In[ ]:
+
+
+
+
